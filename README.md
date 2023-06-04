@@ -30,7 +30,7 @@
 
  
  <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=DANIGAIN&theme=react-dark)](https://github.com/DANIGAIN/github-readme-activity-graph)
+ ## Activity Graph
  
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANIGAIN&theme=dark&layout=compact&align=right&width=40%)](https://github.com/DANIGAIN/github-readme-stats)
