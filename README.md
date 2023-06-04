@@ -1,5 +1,5 @@
 ## About Me 
- - [linkedin/dani-gain](www.linkedin.com/in/dani-gain)
+ - [linkedin/dani-gain](https://www.linkedin.com/in/dani-gain/)
  - [twitter/DaniGain2](https://twitter.com/DaniGain2)
 
 
@@ -22,7 +22,7 @@
 
 ## My Handles
 
- [<img src="https://img.shields.io/badge/DANIGAIN-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/shahjalal-shohag-394332156/)
+ [<img src="https://img.shields.io/badge/DANIGAIN-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/dani-gain/)
  [<img src="https://img.shields.io/badge/DANIGAIN-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/DANIGAIN) 
  [<img src="https://img.shields.io/badge/codeforces-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/DANI_GAIN) 
  [<img src="https://img.shields.io/badge/leetcode-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/daniGain/) 
