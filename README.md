@@ -9,11 +9,11 @@
 
 ### My Stacks
 
-#### Languages: C++ | Javascript | PHP 
+#### Languages: C++ | Javascript
 
-#### Frontend: HTML | CSS | React | jQuery | Bootstrap
+#### Frontend: HTML | CSS | React | NextJs | jQuery 
 
-#### Backend: Laravel | PHP 
+#### Backend: Nodejs | Express | Mongodb 
 
 ####  Data Strcuture | Algorithm 
 
