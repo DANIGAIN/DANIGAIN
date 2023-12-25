@@ -9,7 +9,7 @@
 
 ### My Stacks
 
-#### Languages: C++ | Javascript
+#### Languages: C/C++ | Javascript
 
 #### Frontend: HTML | CSS | React | NextJs | jQuery 
 
