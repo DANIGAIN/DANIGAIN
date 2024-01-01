@@ -12,9 +12,6 @@ I'm Dani, a Full Stack Web Application Developer with huge love for DSA from <im
 🤔 &emsp;I’m looking for people who can help me with idea.<br/>
 :e-mail: &emsp;How to reach me: danigain1234@gmail.com.<br/>
 
-### My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DANIGAIN&show_icons=true&count_private=true&theme=dark" alt="DaniGain" />
-
 
 ### My Stacks
 
@@ -31,13 +28,18 @@ I'm Dani, a Full Stack Web Application Developer with huge love for DSA from <im
 
 ## My Handles
 
- [<img src="https://img.shields.io/badge/DANIGAIN-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/dani-gain/)
  [<img src="https://img.shields.io/badge/DANIGAIN-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/DANIGAIN) 
  [<img src="https://img.shields.io/badge/codeforces-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/DANI_GAIN) 
  [<img src="https://img.shields.io/badge/leetcode-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/daniGain/) 
 
 
- 
+
+
+### My Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DANIGAIN&show_icons=true&count_private=true&theme=dark" alt="DaniGain" />
+
+
+
  <!-- ACTIVITY GRAPH TRACKER -->
  ## Activity Graph
  
