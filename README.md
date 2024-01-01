@@ -33,6 +33,10 @@ I'm Dani, a Full Stack Web Application Developer with huge love for DSA from <im
  [<img src="https://img.shields.io/badge/leetcode-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/daniGain/) 
 
 
+ ## Activity Graph
+ 
+ <!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANIGAIN&theme=dark&layout=compact&align=right&width=40%)](https://github.com/DANIGAIN/github-readme-stats)
 
 
 ### My Github Stats
@@ -41,7 +45,4 @@ I'm Dani, a Full Stack Web Application Developer with huge love for DSA from <im
 
 
  <!-- ACTIVITY GRAPH TRACKER -->
- ## Activity Graph
- 
- <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANIGAIN&theme=dark&layout=compact&align=right&width=40%)](https://github.com/DANIGAIN/github-readme-stats)
+
