@@ -1,4 +1,5 @@
-# -> Hi <img src="assets/hello.gif" width="28px" alt="hi">, I'm Dani Gain <-
+<h1 align="center">  Hi <img src="assets/hello.gif" width="28px" alt="hi">, I'm Dani Gain <h1>
+
 ## About Me 
  - [linkedin/dani-gain](https://www.linkedin.com/in/dani-gain/)
  - [twitter/DaniGain2](https://twitter.com/DaniGain2)
