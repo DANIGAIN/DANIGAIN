@@ -13,11 +13,11 @@ I'm Dani, a Full Stack Web Application Developer with huge love for DSA from <im
 
 ### My Stacks : 
 
-#### Languages: C/C++ | Javascript
-#### Frontend: HTML | CSS | React | NextJs | jQuery 
-#### Backend: Nodejs | Express | Mongodb 
-####  Data Strcuture | Algorithm 
-#### Others: Git | Linux 
+- Languages: C/C++ | Javascript
+- Frontend: HTML | CSS | React | NextJs | jQuery 
+- Backend: Nodejs | Express | Mongodb 
+- Data Strcuture | Algorithm 
+- Others: Git | Linux 
 
 
 ## My Handles
