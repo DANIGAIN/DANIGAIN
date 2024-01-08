@@ -2,6 +2,8 @@
 
 I'm Dani, a Full Stack Web Application Developer with huge love for DSA from <img src="assets/bangladesh.png" width="18"/> Bangladesh. Dedicating free time to competitive programming sharpens algorithmic problem-solving skills, fostering a passion for coding challenges and continual learning .
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DANIGAIN&label=Profile%20views&color=0e75b6&style=flat" alt="ashrayaa" /> </p>
+
 :coffee: &emsp;Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kal.dani.31/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dani-gain/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dani_gain_1/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DaniGain2) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danigain1234@gmail.com)
