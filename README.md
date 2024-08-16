@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 ## Hi there my friend <img src="src/assets/hello.gif" width="28px" alt="hi">
 
 I'm Dani, a Full Stack Web Application Developer with huge love for DSA from <img src="src/assets/bangladesh.png" width="18"/> Bangladesh. Dedicating free time to competitive programming sharpens algorithmic problem-solving skills, fostering a passion for coding challenges and continual learning .
-=======
-## Hi there my friend <img src="assets/hello.gif" width="28px" alt="hi">
-
-I'm Dani, a Full Stack Web Application Developer with huge love for DSA from <img src="assets/bangladesh.png" width="18"/> Bangladesh. Dedicating free time to competitive programming sharpens algorithmic problem-solving skills, fostering a passion for coding challenges and continual learning .
->>>>>>> c02fbb9 (update somthing)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DANIGAIN&label=Profile%20views&color=0e75b6&style=flat" alt="ashrayaa" /> </p>
 
