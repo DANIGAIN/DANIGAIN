@@ -1,4 +1,4 @@
-## Hi there my friend <img src="assets/hello.gif" width="28px" alt="hi">
+## Hi there my friend <img src="src/assets/hello.gif" width="28px" alt="hi">
 
 I'm Dani, a Full Stack Web Application Developer with huge love for DSA from <img src="src/assets/bangladesh.png" width="18"/> Bangladesh. Dedicating free time to competitive programming sharpens algorithmic problem-solving skills, fostering a passion for coding challenges and continual learning .
 
