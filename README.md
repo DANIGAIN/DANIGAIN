@@ -17,7 +17,8 @@ I'm Dani, a Full Stack Web Application Developer with huge love for DSA from <im
 
 - Languages: C/C++ | java | javascript 
 - Frontend: HTML | CSS | Tailwind css | React | NextJs  
-- Backend: Node | Express | Mongodb 
+- Backend: Node | Express  
+- Database : Mongodb
 - Data Strcuture | Algorithm 
 - Others: Git | Linux 
 
