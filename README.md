@@ -1,6 +1,6 @@
-## Hi there my friend <img src="src/assets/hello.gif" width="28px" alt="hi">
+## Hi there my friend <img src="./assets/hello.gif" width="28px" alt="hi">
 
-I'm Dani, a Full Stack Web Application Developer with huge love for DSA from <img src="src/assets/bangladesh.png" width="18"/> Bangladesh. Dedicating free time to competitive programming sharpens algorithmic problem-solving skills, fostering a passion for coding challenges and continual learning .
+I'm Dani, a Full Stack Web Application Developer with huge love for DSA from <img src="./assets/bangladesh.png" width="18"/> Bangladesh. Dedicating free time to competitive programming sharpens algorithmic problem-solving skills, fostering a passion for coding challenges and continual learning .
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DANIGAIN&label=Profile%20views&color=0e75b6&style=flat" alt="ashrayaa" /> </p>
 
@@ -38,8 +38,4 @@ I'm Dani, a Full Stack Web Application Developer with huge love for DSA from <im
 
 ### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DANIGAIN&show_icons=true&count_private=true&theme=dark" alt="DaniGain" />
-
-
-
- <!-- ACTIVITY GRAPH TRACKER -->
 
