@@ -1,8 +1,11 @@
 <h1 align="center"><b>Hi ,Hi, I'm Dani </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
         
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Competitive-+Programmer,;Software+Engineer,;Computer+Science+Student,;CodeForces+Newbie,;Love+to+learn+new+stuffs..<"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..;&hearts;++;Competitive+Programmer,;Software+Engineer,;Computer+Science+Student,;CodeForces+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..">
+  </a>
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DANIGAIN&label=Profile%20views&color=0e75b6&style=flat" alt="ashrayaa" /> </p>
 
@@ -50,22 +53,33 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50"
             height="50" style="margin: 5px;" />
     </a>
+    <!-- Docker  --> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="margin: 5px;" />
+    </a> 
+     <!-- GitHub  --> 
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin: 5px;" />
+   </a>
+  <!-- Postman  --> 
+   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" style="margin: 5px;" />
+    </a>
+ <!-- Socket.IO   --> 
+   <a href="https://socket.io/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="50" height="50" style="margin: 5px;" />
+   </a>
 
 </p>
 
 
-## My Handles
+<h1 align="center"><b> My Handles</b></h1>
 
  [<img src="https://img.shields.io/badge/DANIGAIN-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/DANIGAIN) 
  [<img src="https://img.shields.io/badge/codeforces-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/DANI_GAIN) 
  [<img src="https://img.shields.io/badge/leetcode-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/daniGain/) 
 
+<h1 align="center"><b>My Github Stats</b></h1>
 
- 
- <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANIGAIN&theme=dark&layout=compact&align=right&width=40%)](https://github.com/DANIGAIN/github-readme-stats)
-
-
-### My Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DANIGAIN&show_icons=true&count_private=true&theme=dark" alt="DaniGain" />
 
