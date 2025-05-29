@@ -1,8 +1,8 @@
-<h1 align="center"><b>Hi ,Hi, I'm Dani </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Dani </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
         
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..;&hearts;++;Competitive+Programmer,;Software+Engineer,;Computer+Science+Student,;CodeForces+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=hearts;++;Competitive+Programmer,;Software+Engineer,;Computer+Science+Student,;CodeForces+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..">
   </a>
 </p>
 
@@ -18,7 +18,6 @@
 🤔 &emsp;I’m looking for people who can help me with idea.<br/>
 :e-mail: &emsp;How to reach me: danigain1234@gmail.com.<br/>
 
-!-- Markdown Header -->
 <h2 align="center" style="color: #e2e2e2;">Technologies & Tools I Use </h2>
 
 <!-- Icons Container -->
@@ -78,8 +77,6 @@
  [<img src="https://img.shields.io/badge/DANIGAIN-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/DANIGAIN) 
  [<img src="https://img.shields.io/badge/codeforces-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/DANI_GAIN) 
  [<img src="https://img.shields.io/badge/leetcode-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/daniGain/) 
-
-<h1 align="center"><b>My Github Stats</b></h1>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DANIGAIN&show_icons=true&count_private=true&theme=dark" alt="DaniGain" />
 
