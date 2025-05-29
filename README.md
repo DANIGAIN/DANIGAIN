@@ -1,6 +1,7 @@
-## Hi there my friend <img src="./assets/hello.gif" width="28px" alt="hi">
+## <img src="./assets/hello.gif" width="28px" alt="hi"> Hi, I'm Dani
 
-I'm Dani, Software Developer with huge love for DSA from <img src="./assets/bangladesh.png" width="18"/> Bangladesh. Dedicating free time to competitive programming sharpens algorithmic problem-solving skills, fostering a passion for coding challenges and continual learning .
+🚀 Software Engineer @ Appstrick
+🛠️ Building scalable backend systems and innovative software solutions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DANIGAIN&label=Profile%20views&color=0e75b6&style=flat" alt="ashrayaa" /> </p>
 
@@ -13,14 +14,45 @@ I'm Dani, Software Developer with huge love for DSA from <img src="./assets/bang
 🤔 &emsp;I’m looking for people who can help me with idea.<br/>
 :e-mail: &emsp;How to reach me: danigain1234@gmail.com.<br/>
 
-### My Stacks : 
+!-- Markdown Header -->
+<h2 align="center" style="color: #e2e2e2;">Technologies & Tools I Use </h2>
 
-- Languages: C/C++ | JS/TS
-- Frontend: HTML | CSS | Tailwind css | React | NextJs  
-- Backend: Node | Express  
-- Database : Mongodb
-- Data Strcuture | Algorithm 
-- Others: Git | Linux 
+<!-- Icons Container -->
+<p align="center">
+    <!-- JavaScript -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="JavaScript" width="50" height="50" style="margin: 5px;" />
+    </a>
+    <!-- TypeScript -->
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="TypeScript" width="50" height="50" style="margin: 5px;" />
+    </a>
+  
+    <!-- Express.js -->
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            alt="Express.js" width="50" height="50" style="margin: 5px;" />
+    </a>
+    <!-- MongoDB -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="MongoDB" width="50" height="50" style="margin: 5px;" />
+    </a>
+    <!-- MySQL -->
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="MySQL" width="50" height="50" style="margin: 5px;" />
+    </a>
+    <!-- C -->
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50"
+            height="50" style="margin: 5px;" />
+    </a>
+
+    </a>
+</p>
 
 
 ## My Handles
@@ -30,7 +62,6 @@ I'm Dani, Software Developer with huge love for DSA from <img src="./assets/bang
  [<img src="https://img.shields.io/badge/leetcode-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/daniGain/) 
 
 
- ## Activity Graph
  
  <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANIGAIN&theme=dark&layout=compact&align=right&width=40%)](https://github.com/DANIGAIN/github-readme-stats)
