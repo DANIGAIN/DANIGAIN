@@ -1,7 +1,8 @@
-## <img src="./assets/hello.gif" width="28px" alt="hi"> Hi, I'm Dani
-
-🚀 Software Engineer @ Appstrick
-🛠️ Building scalable backend systems and innovative software solutions.
+<h1 align="center"><b>Hi ,Hi, I'm Dani </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+        
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Competitive-+Programmer,;Software+Engineer,;Computer+Science+Student,;CodeForces+Newbie,;Love+to+learn+new+stuffs..<"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DANIGAIN&label=Profile%20views&color=0e75b6&style=flat" alt="ashrayaa" /> </p>
 
@@ -29,7 +30,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="TypeScript" width="50" height="50" style="margin: 5px;" />
     </a>
-  
     <!-- Express.js -->
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -51,7 +51,6 @@
             height="50" style="margin: 5px;" />
     </a>
 
-    </a>
 </p>
 
 
